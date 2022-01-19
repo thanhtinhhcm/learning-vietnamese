@@ -1,0 +1,13 @@
+.signuptext {
+    &:hover {
+        text-decoration: none;
+        color: #01bf71;
+        transition: all 0.2s ease-in-out;
+        font-weight: bold;
+    }
+}
+
+.logo {
+    width: 200px;
+    margin-top: 20px;
+}

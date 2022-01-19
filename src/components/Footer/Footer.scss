@@ -1,0 +1,21 @@
+.logo {
+    width: 250px;
+    .logo-img {
+        width: 250px;
+    }
+}
+
+.copyright {
+    p {
+        margin-bottom: 0;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .logo {
+        width: 150px;
+        .logo-img {
+            width: 150px;
+        }
+    }
+}
